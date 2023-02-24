@@ -1,0 +1,20 @@
+
+.pokedex{
+    background-color: #d81c40;
+    height: 500px;
+}
+
+.pokedex_left{
+    height: 100%;
+}
+
+.pokedex_top{
+    height: 20%;
+}
+
+.light{
+    background-color: white;
+    height: 50px;
+    width: 50px;
+    border-radius: 100px;
+}
