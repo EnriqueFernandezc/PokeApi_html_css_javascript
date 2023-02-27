@@ -20,7 +20,7 @@
 }
 
 .relleno{
-    height: 200px;
+    height: 300px;
 }
 
 .light{
@@ -73,6 +73,7 @@
     width: 30px;
     border-radius: 100%;
     background-color: white;
+    font-size: 50%;
     border: none;
 }
 
@@ -82,6 +83,7 @@
     border-radius: 10px;
     margin-left: 5px;
     background-color: rgb(7, 212, 7);
+    font-size: 50%;
     border: none;
 }
 
@@ -91,6 +93,7 @@
     border-radius: 10px;
     margin-left: 5px;
     background-color: yellow;
+    font-size: 50%;
     border: none;
 }
 
