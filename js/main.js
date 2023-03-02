@@ -75,3 +75,10 @@ function cambioPokemon(){
         })
         .catch(err=>console.log(err));
 }
+
+const btnhome = document.getElementById("btn-home");
+btnhome.addEventListener("click", clear);
+
+function clear() {
+    screen.innerHTML = "";
+}
