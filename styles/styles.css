@@ -1,7 +1,7 @@
 .pokedex{
     background-color: #d81c40;
     height: 500px;
-    width: 696px;
+    width: 800px;
     border-radius: 10px;
 }
 
@@ -97,13 +97,13 @@
     border: none;
 }
 
-.search_pokemon{
+/* .search_pokemon{
     height: 30px;
     width: 30px;
     border-radius: 100%;
     background-color: rgb(0, 217, 255);
     border: none;
-}
+} */
 
 .pokedex_right{
     width: 50%;
