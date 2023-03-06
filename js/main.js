@@ -31,7 +31,7 @@ search.addEventListener('click', (e)=>{
     let pokemon=input.value;
 
     if (pokemon>1008||pokemon<1){
-        screen.innerHTML='<p class="my-2">Introduzca un numero entre 1 y 1008. Este es el limite de Pokemones de la API.</p>'
+        screen.innerHTML='<p class="my-2">Para ver un Pokemon introduzca un numero entre 1 y 1008 o su nombre.</p>'
     }
 
     let ruta=`https://pokeapi.co/api/v2/pokemon/${pokemon}/`
